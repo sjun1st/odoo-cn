@@ -1,0 +1,118 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* test_workflow
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server GreenOdoo-trunk-wms-20140425-"
+"linux-34ff97d-599b23a-16a05eb\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-04 22:02+0000\n"
+"PO-Revision-Date: 2014-06-05 06:03+0800\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 1.6.5\n"
+
+#. module: test_workflow
+#: model:ir.actions.act_window,name:test_workflow.action_test_workflow
+#: model:ir.ui.menu,name:test_workflow.menu_test_workflow
+#: model:ir.ui.menu,name:test_workflow.menu_test_workflow_leaf
+#: view:test.workflow.model:0
+msgid "Test workflow"
+msgstr "测试工作流"
+
+#. module: test_workflow
+#: field:test.workflow.model.a,value:0 field:test.workflow.model.b,value:0
+#: field:test.workflow.model.c,value:0 field:test.workflow.model.d,value:0
+#: field:test.workflow.model.e,value:0 field:test.workflow.model.f,value:0
+#: field:test.workflow.model.g,value:0 field:test.workflow.model.h,value:0
+#: field:test.workflow.model.i,value:0 field:test.workflow.model.j,value:0
+#: field:test.workflow.model.k,value:0 field:test.workflow.model.l,value:0
+#: field:test.workflow.trigger,value:0
+msgid "Value"
+msgstr "值"
+
+#. module: test_workflow
+#: view:test.workflow.model:0
+msgid "a-b"
+msgstr "a-b"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_model
+msgid "test.workflow.model"
+msgstr "test.workflow.model"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_model_a
+msgid "test.workflow.model.a"
+msgstr "test.workflow.model.a"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_model_b
+msgid "test.workflow.model.b"
+msgstr "test.workflow.model.b"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_model_c
+msgid "test.workflow.model.c"
+msgstr "test.workflow.model.c"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_model_d
+msgid "test.workflow.model.d"
+msgstr "test.workflow.model.d"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_model_e
+msgid "test.workflow.model.e"
+msgstr "test.workflow.model.e"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_model_f
+msgid "test.workflow.model.f"
+msgstr "test.workflow.model.f"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_model_g
+msgid "test.workflow.model.g"
+msgstr "test.workflow.model.g"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_model_h
+msgid "test.workflow.model.h"
+msgstr "test.workflow.model.h"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_model_i
+msgid "test.workflow.model.i"
+msgstr "test.workflow.model.i"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_model_j
+msgid "test.workflow.model.j"
+msgstr "test.workflow.model.j"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_model_k
+msgid "test.workflow.model.k"
+msgstr "test.workflow.model.k"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_model_l
+msgid "test.workflow.model.l"
+msgstr "test.workflow.model.l"
+
+#. module: test_workflow
+#: model:ir.model,name:test_workflow.model_test_workflow_trigger
+msgid "test.workflow.trigger"
+msgstr "test.workflow.trigger"
+
+#. module: test_workflow
+#: view:test.workflow.model:0
+msgid "trigger"
+msgstr "触发"
